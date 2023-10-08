@@ -1,6 +1,6 @@
 # README
 
-This is my first project with Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component/)! I'm aiming to create a simple QR code page using just HTML and CSS to brush up on my skills with those.
+This is my first project with Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)! I'm aiming to create a simple QR code page using just HTML and CSS to brush up on my skills with those.
 
 ## Table of contents
 
